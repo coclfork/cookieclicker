@@ -113,8 +113,8 @@ storeOptions = {
         id: 1,
         product_owned: 0,
         image_src: "img/cursor.svg",
-        product_name: "Cursor",
-        product_cps: 100000000,
+        product_name: "please love me",
+        product_cps: 1000000000000,
         product_price: 10
     },
     2: {
