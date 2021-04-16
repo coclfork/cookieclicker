@@ -136,8 +136,8 @@ storeOptions = {
     4: {
         id: 4,
         product_owned: 0,
-        image_src: "img/chef.svg",
-        product_name: "help",
+        image_src: "img/cow.svg",
+        product_name: "cow",
         product_cps: 100,
         product_price: 10000
     }
