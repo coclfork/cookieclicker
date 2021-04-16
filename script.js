@@ -139,7 +139,7 @@ storeOptions = {
         image_src: "img/cow.svg",
         product_name: "cow",
         product_cps: 100,
-        product_price: 10000
+        product_price: 5000
     }
 };
 // Adds the storeOptions to the page
