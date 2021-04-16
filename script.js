@@ -112,7 +112,7 @@ storeOptions = {
     1: {
         id: 1,
         product_owned: 0,
-        image_src: "img/cursor.svg",
+        image_src: "img/alax.svg",
         product_name: "please love me",
         product_cps: 0.1,
         product_price: 10
@@ -120,7 +120,7 @@ storeOptions = {
     2: {
         id: 2,
         product_owned: 0,
-        image_src: "img/oven.svg",
+        image_src: "img/alax.svg",
         product_name: "Oven",
         product_cps: 1.5,
         product_price: 100
@@ -128,7 +128,7 @@ storeOptions = {
     3: {
         id: 3,
         product_owned: 0,
-        image_src: "img/chef.svg",
+        image_src: "img/alax.svg",
         product_name: "Chef",
         product_cps: 20,
         product_price: 1000
@@ -136,7 +136,7 @@ storeOptions = {
     4: {
         id: 4,
         product_owned: 0,
-        image_src: "img/cow.svg",
+        image_src: "img/alax.svg",
         product_name: "cow",
         product_cps: 100,
         product_price: 5000
@@ -144,7 +144,7 @@ storeOptions = {
     5: {
         id: 5,
         product_owned: 0,
-        image_src: "img/cow.svg",
+        image_src: "img/alax.svg",
         product_name: "she dont want me",
         product_cps: 1000,
         product_price: 50000
@@ -152,7 +152,7 @@ storeOptions = {
     6: {
         id: 6,
         product_owned: 0,
-        image_src: "img/cow.svg",
+        image_src: "img/alax.svg",
         product_name: "hel p",
         product_cps: 10000,
         product_price: 500000
