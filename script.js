@@ -132,12 +132,21 @@ storeOptions = {
         product_name: "Chef",
         product_cps: 20,
         product_price: 1000
+    },
+    4: {
+        id: 4,
+        product_owned: 0,
+        image_src: "img/chef.svg",
+        product_name: "help",
+        product_cps: 100,
+        product_price: 10000
     }
 };
 // Adds the storeOptions to the page
 addStoreOption(storeOptions["1"]);
 addStoreOption(storeOptions["2"]);
 addStoreOption(storeOptions["3"]);
+addStoreOption(storeOptions["4"]);
 
 // Set gameLoop running
 window.setInterval(gameLoop, (1000 / ticksPerSecond));
