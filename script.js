@@ -140,6 +140,22 @@ storeOptions = {
         product_name: "cow",
         product_cps: 100,
         product_price: 5000
+    },
+    5: {
+        id: 5,
+        product_owned: 0,
+        image_src: "img/cow.svg",
+        product_name: "she dont want me",
+        product_cps: 1000,
+        product_price: 50000
+    },
+    6: {
+        id: 6,
+        product_owned: 0,
+        image_src: "img/cow.svg",
+        product_name: "hel p",
+        product_cps: 10000,
+        product_price: 500000
     }
 };
 // Adds the storeOptions to the page
@@ -147,6 +163,8 @@ addStoreOption(storeOptions["1"]);
 addStoreOption(storeOptions["2"]);
 addStoreOption(storeOptions["3"]);
 addStoreOption(storeOptions["4"]);
+addStoreOption(storeOptions["5"]);
+addStoreOption(storeOptions["6"]);
 
 // Set gameLoop running
 window.setInterval(gameLoop, (1000 / ticksPerSecond));
